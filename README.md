@@ -1,7 +1,7 @@
 # :pushpin: 자바로 푸는 자료구조 알고리즘 풀이
 ### 1. [LinkedList]() 
 
-+Linked List 개념정리<br/>
++ Linked List 개념정리<br/>
   + [코드](https://github.com/Kim-Gyuri/Java_datastructure_algorithm/blob/master/src/setup/Main.java) 참고 <br/>
 
 
