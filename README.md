@@ -2,7 +2,8 @@
 자바로 공부하는 알고리즘 필기노트 저장소입니다. <br><br>
 # &#128203; Table of Contents
  
-+ Node 클래스를 감싸는 LinkedList
++ 단방향 LinkedList를 node라는 클래스로 구현해보기
++ Node 클래스를 감싸는 LinkedList 클래스를 구현해보기
 + 중복값 제거
 + 뒤부터 세기 - 1 
 + 뒤부터 세기 - 2 재귀호출
